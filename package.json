@@ -4,18 +4,21 @@
     "description": "A simple module to convert SQL dump files to JSON format.",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": ["sql", "json", "converter"],
+    "keywords": [
+        "sql",
+        "json",
+        "converter"
+    ],
     "author": "lookmaniak",
     "license": "MIT",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/lookmaniak/json-from-sql.git"
+        "type": "git",
+        "url": "git+https://github.com/lookmaniak/json-from-sql.git"
     },
     "bugs": {
-      "url": "https://github.com/lookmaniak/json-from-sql/issues"
+        "url": "https://github.com/lookmaniak/json-from-sql/issues"
     },
     "homepage": "https://github.com/lookmaniak/json-from-sql#readme"
-  }
-  
+}
