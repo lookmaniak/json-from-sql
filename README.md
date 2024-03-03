@@ -1,4 +1,4 @@
-#JSON from SQL
+# JSON from SQL
 Simple js library for parsing sql file dump (.sql) into usable JSON object.
 
 ## Install:
